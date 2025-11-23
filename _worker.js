@@ -371,7 +371,7 @@ function renderHTML({ type, error = "", title = "", message = "", data = {} }) {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${pageTitle} - Cloudflare Worker</title>
-  <link rel="icon" type="image/png" href="https://github.com/hiuliuli/cf-keep-alive/blob/main/favicon.png">
+  <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/hiuliuli/cf-keep-alive/refs/heads/main/favicon.png">
   <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
   <style>
     :root {
