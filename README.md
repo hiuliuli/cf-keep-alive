@@ -1,4 +1,4 @@
-- 部署在Cloudflare Workers上的网页保活工具，代码由Gemini 3 Pro Preview生成。
+部署在Cloudflare Workers上的网页保活工具，代码由Gemini 3 Pro Preview生成。
 # 界面截图
 ![Uploading 2025-11-23_15-14-34.png…]()
 # 部署步骤
