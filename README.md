@@ -1,6 +1,6 @@
 部署在Cloudflare Workers上的网页保活工具，代码由Gemini 3 Pro Preview生成。
 # 界面截图
-![Uploading 2025-11-23_15-14-34.png…]()
+![[https://github.com/hiuliuli/cf-keep-alive/blob/main/screenshot.png]]
 # 部署步骤
 ### 1. 创建 Worker
 1. 登录 Cloudflare 仪表板。
