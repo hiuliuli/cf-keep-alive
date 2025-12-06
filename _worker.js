@@ -1,9 +1,3 @@
-/**
- * Cloudflare Worker Keep Alive v2.0
- * Features: Auth, URL Management, Cron Trigger, Retry Logic, Logging
- * Style: Neo-Brutalism
- */
-
 export default {
   // --- 1. HTTP 请求入口 (手动操作 & UI) ---
   async fetch(request, env, ctx) {
